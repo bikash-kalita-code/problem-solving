@@ -1,5 +1,9 @@
 # problem-solving
 
+<p align="center">
+  <img src="programming_image.gif" alt="programming_image.gif" />
+</p>
+
 ## Collaborators
 1. [Bikash Kalita](https://www.github.com/bikash-kalita-code)
 
