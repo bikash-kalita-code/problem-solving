@@ -1,5 +1,8 @@
 # problem-solving
 
+## Collaborators
+1. [Bikash Kalita](https://www.github.com/bikash-kalita-code)
+
 ## Folder structure of this repository
 - problem-solving [ main repository ]
   - README.md
