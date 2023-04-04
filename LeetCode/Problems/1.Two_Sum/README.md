@@ -4,6 +4,8 @@ Problem Link: [Two Sum](https://leetcode.com/problems/two-sum/)
 
 Rating: 3/5
 
+Difficulty: Easy
+
 Algorithm:
 1. Iterate through the given array from index `i=0 to i<length(array)-1`.
 2. Inside the code of the first iteration, again iterate through the code from `j=i+1 to j<length(array)`.
