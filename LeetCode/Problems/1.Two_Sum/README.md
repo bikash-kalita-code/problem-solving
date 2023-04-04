@@ -19,5 +19,6 @@ Find your solutions attached alongwith this directory in the following links:
 [JavaScript](./1.Two_Sum.js)
 
 Contributors: 
-1 - [Bikash Kalita](https://www.github.com/bikash-kalita-code)
+
+1. - [Bikash Kalita](https://www.github.com/bikash-kalita-code)
 
