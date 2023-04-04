@@ -5,10 +5,10 @@
 </p>
 
 ## Sources
-1 [LeetCode](./LeetCode/README.md)
+1. [LeetCode](./LeetCode/README.md)
 
 ### Collaborators
-1 [Bikash Kalita](https://www.github.com/bikash-kalita-code)
+1. [Bikash Kalita](https://www.github.com/bikash-kalita-code)
 
 ### Folder structure of this repository
 - problem-solving [ main repository ]
@@ -26,5 +26,3 @@
           - Include importance level from 1 to 5 
           - Algorithm
         - Different files of language specific code [ Code specific files ]
-
-## Link to template for 'source' directory
