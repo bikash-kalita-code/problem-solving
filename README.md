@@ -1,13 +1,16 @@
 # problem-solving
 
 <p align="center">
-  <img src="programming_image.gif" alt="programming_image.gif" />
+  <img src="programming.gif" alt="programming.gif" />
 </p>
 
-## Collaborators
-1. [Bikash Kalita](https://www.github.com/bikash-kalita-code)
+## Sources
+1 [LeetCode](./LeetCode/README.md)
 
-## Folder structure of this repository
+### Collaborators
+1 [Bikash Kalita](https://www.github.com/bikash-kalita-code)
+
+### Folder structure of this repository
 - problem-solving [ main repository ]
   - README.md
     - Includes navigation to all the sources
