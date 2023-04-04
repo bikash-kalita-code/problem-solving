@@ -14,8 +14,10 @@ NOTE: The above method will make sure that the same element is not used twice ac
 
 NOTE: Since, it is given in the condition that there exists a solution for every problem and the solution occurs only once. So, we can return the required indexes once we find the solution.
 
-Additional Information: 
+Additional Information:
+
 Find your solutions attached alongwith this directory in the following links:
+
 [JavaScript](./1.Two_Sum.js)
 
 Contributors: 
