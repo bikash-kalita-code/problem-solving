@@ -19,7 +19,7 @@
     - Problems [ directory ]
       - Problem number / name [ directory ]
         - README.md
-          - Problem Description
+          - Problem Description / Link to problem
           - Include importance level from 1 to 5 
           - Algorithm
         - Different files of language specific code [ Code specific files ]
