@@ -22,6 +22,9 @@
         <li>
           Tags: [ 'array' ]
         </li>
+        <li>
+          Difficulty: Easy
+        </li>
       </ul>
     </td>
   </tr>
